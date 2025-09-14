@@ -7,10 +7,10 @@
 IndieChats is a cloud based communications platform that enables you to chat by discussion topic or by direct message. Best of all, you can run it on your own server.
 
 ![Screen Shot](images/screen-shots/welcome.png)
-Welcome Screen
+*Welcome*
 
 ![Screen Shot](images/screen-shots/desktop.png)
-Desktop
+*Desktop*
 
 ## Features
 
